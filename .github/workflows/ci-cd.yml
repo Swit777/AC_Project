@@ -38,5 +38,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/registration-app:latest
-            ghcr.io/${{ github.repository_owner }}/registration-app:${{ github.sha }}
+            ghcr.io/swit777/registration-app:latest
+            ghcr.io/swit777/registration-app:${{ github.sha }}
