@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ден\\Desktop\\AC\\RegistrationApp\\RegistrationApp.csproj",
+      "projectUniqueName": "C:\\Users\\ден\\Desktop\\AC_Project\\RegistrationApp.csproj",
       "projectName": "RegistrationApp",
-      "projectPath": "C:\\Users\\ден\\Desktop\\AC\\RegistrationApp\\RegistrationApp.csproj",
+      "projectPath": "C:\\Users\\ден\\Desktop\\AC_Project\\RegistrationApp.csproj",
       "packagesPath": "C:\\Users\\ден\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ден\\Desktop\\AC\\RegistrationApp\\obj\\",
+      "outputPath": "C:\\Users\\ден\\Desktop\\AC_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ден\\AppData\\Roaming\\NuGet\\NuGet.Config"
