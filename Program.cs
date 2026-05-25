@@ -28,7 +28,7 @@ app.MapPost("/api/register", (RegisterRequest req, UserStore store) =>
     return Results.Created($"/api/users/{user.Id}", user);
 });
 
-app.Run();
+app.Run(); 
 
 record RegisterRequest(string Name, string Email, string Password);
 record User(Guid Id, string Name, string Email);
